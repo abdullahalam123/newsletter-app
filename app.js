@@ -50,6 +50,3 @@ app.post("/", function(req, res){
 app.listen(3000, function(){
   console.log("Server started on port 3000");
 });
-
-// mailchimp: c705f988d70c173ff4214bf721088162-us6
-//mailchimp list id : 87909546bd
